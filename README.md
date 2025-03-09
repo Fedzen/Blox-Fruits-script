@@ -1,7 +1,7 @@
 # Blox Fruits Dragon Reowrk Update Script Redzhub
 Be part of the legendary voyage in the world of One-Piece and create your own pirate crew to take on different challenges to become the strongest Pirate King with the help of Blox Fruit Script. This script or code will give you the best tools to accelerate your leveling progress and fruit mastery to survive against powerful bosses or other players inside the PVP area. It also helps you finish main quests faster to speed up your cash earnings and purchase high-quality equipment throughout the game.
 
-**Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/Script-BF/refs/heads/main/.lua",true))()**
+Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fedzen/Script-BF/refs/heads/main/.lua",true))()
 
 CategoriesMobile Scripts
 TagsBlox Fruit script update Dragon, blox fruits Script, blox fruits script android, blox fruits script arceus x, Blox Fruits Script Delta, blox fruits script fluxus, blox fruits script mobile, Blox Fruits Script Pastebin, Blox Fruits Script Pastebin 2025, Script Blox Fruits, script blox fruits android, script blox fruits arceus x, Script Blox Fruits Delta, script blox fruits fluxus, script blox fruits mobile
